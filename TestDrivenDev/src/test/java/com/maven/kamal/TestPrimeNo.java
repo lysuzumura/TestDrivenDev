@@ -20,7 +20,7 @@ public class TestPrimeNo {
 	//@After
 	@Test
 	public void testPrimeNo() {
-		assertEquals(true, PrimeNo.checkPrime(12));
+		assertEquals(true, PrimeNo.checkPrime(666));
 	
 	}
 	//@Before
